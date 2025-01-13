@@ -39,7 +39,7 @@ Create a Data Warehouse (DWH) to extract AWS reviews for products/categories and
    - e. Meta Data Management
    - f. Schema Evolution
    - g. Change Data Capture
-     - i. SCD 0, 1, 2
+     - i. SCD 1, 2
      - ii. Incremental Loads
      - iii. Full Loads
    - h. Facts and Dimensions
