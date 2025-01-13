@@ -84,7 +84,7 @@ The DWH and ETL processes will support business intelligence and analytics for t
 1. Extraction of data
 2. Load
 3. Testing on load failures
-4. DWH - CDC, SCD 0, 1, 2 Implementation Using Kimball
+4. DWH - CDC, SCD 1, 2 Implementation Using Kimball
 5. Data Quality Checks
 6. Testing
 7. Business Requirements
